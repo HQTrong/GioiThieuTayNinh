@@ -1,0 +1,31 @@
+body{
+    font-size: 20px;
+    padding-top: 10px;
+    background-color:aqua;
+}
+h2{
+    font-size: 30px;
+    color:black;
+}
+.hqt{
+    color:black;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+footer{
+    padding-bottom: 10px;
+    padding-left: 5%;
+}
+#nuibaden{
+    background-image: url(hinhanh/banner.png);
+    height: 500px;
+    width: 100%;
+    padding-top: 50px;
+    padding-right:  30%;
+    padding-left: 10%;
+    background-repeat:no-repeat;
+    background-size: cover;
+
+
+}
